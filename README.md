@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.webp" alt="The Unlimited" width="180"/>
+
 <!--
 **denisTorpeda/denisTorpeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
