@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">✨ Обо мне</h2>
+<h2 align="left">✨ Документация </h2>
 
 - ✨ Моё портфолио (https://drive.google.com/drive/folders/15ZVAGp4ftoGeVCiutdMQ3EF1Yx8TCiNN?usp=drive_link)
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 Языки и инструменты</h3>
+<h2 align="left">✨ Языки и инструменты </h2>
 
 ###
 
