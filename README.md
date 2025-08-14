@@ -5,7 +5,6 @@
 
 - 🌱 Моё CV [https://drive.google.com/drive/folders/1pNVMfuUrDyS52_lP4N0bZXP-lH9TkB5Q?usp=drive_link](https://drive.google.com/drive/folders/1pNVMfuUrDyS52_lP4N0bZXP-lH9TkB5Q?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
