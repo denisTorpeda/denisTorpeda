@@ -4,6 +4,16 @@
 - ✨ Моё портфолио [https://drive.google.com/drive/folders/15ZVAGp4ftoGeVCiutdMQ3EF1Yx8TCiNN?usp=drive_link](https://drive.google.com/drive/folders/15ZVAGp4ftoGeVCiutdMQ3EF1Yx8TCiNN?usp=drive_link)
 
 - 🌱 Моё CV [https://drive.google.com/drive/folders/1pNVMfuUrDyS52_lP4N0bZXP-lH9TkB5Q?usp=drive_link](https://drive.google.com/drive/folders/1pNVMfuUrDyS52_lP4N0bZXP-lH9TkB5Q?usp=drive_link)
+###
+
+<div align="center">
+  <a href="@heloveszhenya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="denistorpeda123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 <p align="left">
 </p>
